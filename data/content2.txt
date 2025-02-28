@@ -1,1 +1,1 @@
-This is some external text content for Content 2.
+This is content from content2.txt.
